@@ -2,10 +2,8 @@
 const CACHE_NAME = 'c1_cache_102';
 //Archivos a guardar
 var urlsToCache =[
-    './',//Todo lo del directorio actual
-    './css/styles.css','./main.js','./jquery.js','./sw.js','./img/proyectoN.jpg','./img/lab.jpg','./img/yisus.jpg',
-    './assets/boostrap/css/boostrap.min.css', './assets/boostrap/js/boostrap.min.js','./assets/css/style.min.css',
-    './img/facebook.png', './img/email.png', './index.js', './firebase.js'
+    'https://github.com/JulietaPerez456/JulietaPerez456.github.io/index.html'
+    
 ];
 
 //Evento install
