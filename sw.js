@@ -2,8 +2,11 @@
 const CACHE_NAME = 'c2_cache_102';
 //Archivos a guardar
 var urlsToCache =[
-    'https://github.com/julietaperez456/julietaperez456.github.io/index.html'
-
+    './',//Todo lo del directorio actual
+    './css/styles.css','./main.js','./jquery.js','./sw.js','./img/proyectoN.jpg','./img/lab.jpg','./img/yisus.jpg',
+    './assets/boostrap/css/boostrap.min.css', './assets/boostrap/js/boostrap.min.js','./assets/css/style.min.css',
+    './img/facebook.png', './img/email.png', './index.js', './firebase.js', './api/map.html', './api/script.js',
+    './api/estilos.css'
 ];
 
 //Evento install
