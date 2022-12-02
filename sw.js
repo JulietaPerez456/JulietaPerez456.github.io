@@ -1,9 +1,9 @@
 //Asignar un nombre y version al cache
-const CACHE_NAME = 'c1_cache_102';
+const CACHE_NAME = 'c2_cache_102';
 //Archivos a guardar
 var urlsToCache =[
-    'https://github.com/JulietaPerez456/JulietaPerez456.github.io/index.html'
-    
+    'https://github.com/julietaperez456/julietaperez456.github.io/index.html'
+
 ];
 
 //Evento install
